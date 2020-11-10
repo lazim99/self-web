@@ -1,1 +1,3 @@
 some text in c file
+
+more text added in c
